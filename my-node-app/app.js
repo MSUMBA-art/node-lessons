@@ -3,6 +3,10 @@ function sayHello(name) {
     console.log('Hello ' + name);
 }
 
-// sayHello('Alexander');
+sayHello('Alexander');
 
-console.log(window)
+// var sayHello = function() {
+
+// }
+
+// // window.sayHello();
